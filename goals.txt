@@ -1,7 +1,5 @@
-# My Personal and Academic Goals for Next Year
-
-- Excel at RICA academically 🌟  
-- Build an education tech app that empowers youth 📱  
-- Join a basketball league and dominate the court 🏀  
-- Get hands-on with agriculture innovations 🌱  
-- Help my peers learn Git and GitHub 🤝  
+My Personal and Academic Goals for Next Year
+- Master Git and Shell
+- Contribute to open source
+- Build cool personal projects
+- Finish this course strong
